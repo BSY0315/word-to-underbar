@@ -1,0 +1,81 @@
+conclude	If you conclude that something is true, you decide that it is true using the facts you know as a basis.
+donate	If you donate something to a charity or other organization, you give it to them.
+personality	Your personality is your whole character and nature.
+struggle	If you struggle to do something, you try hard to do it, even though other people or things may be making it difficult for you to succeed.
+advantage	An advantage is something that puts you in a better position than other people.
+variety	If something has variety, it consists of things which are different from each other.
+enable	If someone or something enables you to do a particular thing, they give you the opportunity to do it.
+instruction	An instruction is something that someone tells you to do.
+assume	If you assume that something is true, you imagine that it is true, sometimes wrongly.
+attempt	If you attempt to do something, especially something difficult, you try to do it.
+incredible	If you describe something or someone as incredible, you like them very much or are impressed by them, because they are extremely or unusually good.
+feature	A feature of something is an interesting or important part or characteristic of it.
+confuse	If you confuse two things, you get them mixed up, so that you think one of them is the other one.
+electronic	An electronic device has transistors or silicon chips which control and change the electric current passing through the device.
+absorb	If something absorbs a liquid, gas, or other substance, it soaks it up or takes it in.
+indicate	If one thing indicates another, the first thing shows that the second is true or exists.
+analyze	If you analyze something, you consider itcarefully or use statistical methods in orderto fully understand it
+stock	Stocks are shares in the ownership of a company, or investments on which a fixed amount of interest will be paid.
+resident	The residents of a house or area are the people who live there.
+labor	Labor is very hard work, usually physicalwork.
+remark	If you remark that something is the case, you say that it is the case.
+moral	Morals are principles and beliefs concerning right and wrong behaviour.
+embarrass	If something or someone embarrasses you, they make you feel shy or ashamed.
+claim	If you say that someone claims that something is true, you mean they say that it is true but you are not sure whether or not they are telling the truth.
+reasonable	If you think that someone is fair and sensible you can say that they are reasonable.
+interrupt	If you interrupt someone who is speaking, you say or do something that causes them to stop.
+discount	A discount is a reduction in the usual price of something.
+creature	You can refer to any living thing that is not a plant as a creature, especially when it is of an unknown or unfamiliar kind. People also refer to imaginary animals and beings as creatures.
+heal	When a broken bone or other injury heals or when something heals it, it becomes healthy and normal again.
+establish	If someone establishes something such as an organization, a type of activity, or a set of rules, they create it or introduce it in such a way that it is likely to last for a long time.
+revolution	A revolution is a successful attempt by a large group of people to change the political system of their country by force.
+criticize	If you criticize someone or something, you express your disapproval of them by saying what you think is wrong with them.
+convince	If someone or something convinces you of something, they make you believe that it is true or that it exists.
+efficient	If something or someone is efficient, they are able to do tasks successfully, without wasting time or energy.
+stranger	A stranger is someone you have never met before.
+tide	The tide is the regular change in the level of the sea on the shore.
+obtain	To obtain something means to get it or achieve it.
+assist	If you assist someone, you help them to do a job or task by doing part of the work for them.
+disaster	A disaster is a very bad accident such as an earthquake or a plane crash, especially one in which a lot of people are killed.
+terrific	If you describe something or someone as terrific, you are very pleased with them or very impressed by them.
+=======================converted========================
+conclude	if you ________ that something is true, you decide that it is true using the facts you know as a basis.
+donate	if you ______ something to a charity or other organization, you give it to them.
+personality	your ___________ is your whole character and nature.
+struggle	if you ________ to do something, you try hard to do it, even though other people or things may be making it difficult for you to succeed.
+advantage	an _________ is something that puts you in a better position than other people.
+variety	if something has _______, it consists of things which are different from each other.
+enable	if someone or something ______s you to do a particular thing, they give you the opportunity to do it.
+instruction	an ___________ is something that someone tells you to do.
+assume	if you ______ that something is true, you imagine that it is true, sometimes wrongly.
+attempt	if you _______ to do something, especially something difficult, you try to do it.
+incredible	if you describe something or someone as __________, you like them very much or are impressed by them, because they are extremely or unusually good.
+feature	a _______ of something is an interesting or important part or characteristic of it.
+confuse	if you _______ two things, you get them mixed up, so that you think one of them is the other one.
+electronic	an __________ device has transistors or silicon chips which control and change the electric current passing through the device.
+absorb	if something ______s a liquid, gas, or other substance, it soaks it up or takes it in.
+indicate	if one thing ________s another, the first thing shows that the second is true or exists.
+analyze	if you _______ something, you consider itcarefully or use statistical methods in orderto fully understand it
+stock	_____s are shares in the ownership of a company, or investments on which a fixed amount of interest will be paid.
+resident	the ________s of a house or area are the people who live there.
+labor	_____ is very hard work, usually physicalwork.
+remark	if you ______ that something is the case, you say that it is the case.
+moral	_____s are principles and beliefs concerning right and wrong behaviour.
+embarrass	if something or someone _________es you, they make you feel shy or ashamed.
+claim	if you say that someone _____s that something is true, you mean they say that it is true but you are not sure whether or not they are telling the truth.
+reasonable	if you think that someone is fair and sensible you can say that they are __________.
+interrupt	if you _________ someone who is speaking, you say or do something that causes them to stop.
+discount	a ________ is a reduction in the usual price of something.
+creature	you can refer to any living thing that is not a plant as a ________, especially when it is of an unknown or unfamiliar kind. people also refer to imaginary animals and beings as ________s.
+heal	when a broken bone or other injury ____s or when something ____s it, it becomes ____thy and normal again.
+establish	if someone _________es something such as an organization, a type of activity, or a set of rules, they create it or introduce it in such a way that it is likely to last for a long time.
+revolution	a __________ is a successful attempt by a large group of people to change the political system of their country by force.
+criticize	if you _________ someone or something, you express your disapproval of them by saying what you think is wrong with them.
+convince	if someone or something ________s you of something, they make you believe that it is true or that it exists.
+efficient	if something or someone is _________, they are able to do tasks successfully, without wasting time or energy.
+stranger	a ________ is someone you have never met before.
+tide	the ____ is the regular change in the level of the sea on the shore.
+obtain	to ______ something means to get it or achieve it.
+assist	if you ______ someone, you help them to do a job or task by doing part of the work for them.
+disaster	a ________ is a very bad accident such as an earthquake or a plane crash, especially one in which a lot of people are killed.
+terrific	if you describe something or someone as ________, you are very pleased with them or very impressed by them.
